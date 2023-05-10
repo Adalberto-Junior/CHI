@@ -1,0 +1,20 @@
+1-->potencial users
+R: Todos users com windowns(10),
+
+
+
+
+2-->Taks
+-------------------------------------> Nivel de dificuldade---------------------------------------->
+R:Ir a definições
+R:Atualizar as definições
+R:Instalar as apliacações
+R:Atualizar as Aplicações
+
+----------------------------------->--------------------------------------------------------------->
+
+
+ 
+
+
+

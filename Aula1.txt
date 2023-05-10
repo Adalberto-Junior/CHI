@@ -1,0 +1,49 @@
+Dia 14/02/2023:
+
+Dois trabalhos praticos:
+1º Avalição de uma aplicação já existente:
+-Sujeitão: escolher uma aplicação que pretente fazer no segundo Trabalho.
+-1-5 Aulas 
+
+2º Elaboração de um sistema:
+-Teremos um conjunto de segmento a concluir
+-
+
+As normas ISO de Usabilidade: Teste de usabilidades
+Eficiente e eficacia --> facil de usar 
+-medida de eficiencia(medir o tempo levado para fazer a tarefa) 
+-Satisfação--> perguntar, não se mede directamente. 
+
+
+
+Os metodos que serão usados na disciplina:
+-
+
+Analictico(sem utilizadores)
+-Avaliação heuristica---->TPC-->Estudar sobre isso 
++ discount usability engineering method
++ 3-5 analistas
++ é subjetivo--> varios analista para mesma aplicação 
++ insperção sistematica-->
++ Dados Chamados de Heuristicas--> Há varios 
+
+-modelo basiado em metodos
+
+
+
+Empirico(com utilizadores) -> exige recursos, muito caro muitas vezes. 
+-Teste Usabilidades(Observação e pedido/perguntas)
+Experiência controladas
+
+
+Processos: 
+1-Escolher a aplicação
+2- escolher as heuristicas 
+3- Avaliação independente 
+   +Classificar os problemas(grave, minimo)
+Vamos usar a Heuristica de Neulson, podemos usad outras mas tem de falar com o professor
+
+ 
+
+
+
